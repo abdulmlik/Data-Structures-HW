@@ -1,0 +1,13 @@
+﻿Assignment #2
+علي علي أحمد الجفوري
+
+Assinment no. 2  Due date Monday  27/3/2017
+
+Write a C program to build a binary heap from 25 random numbers read in sequence write a menu type program with the following functions :
+
+1. build heap.
+2. add a node to the heap.
+3. delete a node i the heap.
+4. search for a particular node i the heap.
+5. print contents of the heap in level order.
+use array structure to store the heap data.

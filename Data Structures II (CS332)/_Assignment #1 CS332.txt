@@ -1,0 +1,11 @@
+﻿Assignment #1
+علي علي أحمد الجفوري
+
+Assinment no. 1  Due date Monday  13/3/2017
+
+Write a C program to do the following using menu options :
+1. construct a BST from random data of your choice.( int data)
+2. write a function to count the total no. of nodes in the tree.
+3. write a function to count the no. of nodes that have two children.
+4. write a function to count the no. of leaf nodes.
+5. write a function to find the height of the tree.
