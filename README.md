@@ -1,6 +1,11 @@
 
 # Data-Structures-HW
-C++ Implementations of data structures & data structures II CS331/CS332		   # How to run
+
+
+C++ Implementations of data structures & data structures II CS331/CS332		   
+
+
+# How to run
 ==============
 
 1. Install software
